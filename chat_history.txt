@@ -1,0 +1,2143 @@
+[2025-05-08 10:53:30] Peki: Hi! I'm Peki, your virtual medical assistant. How can I help you?
+[2025-05-08 10:53:42] You: hi
+[2025-05-08 10:56:20] Peki: Hi! I'm Peki, your virtual medical assistant. How can I help you?
+[2025-05-08 10:56:39] You: fever 
+[2025-05-08 18:52:16] User: hi
+[2025-05-08 18:52:16] Bot: 
+Use the pieces of information provided in the context to answer the user's question.
+If you don't know the answer, just say that you don't know, don't try to make up an answer.
+Don't provide anything out of the given context.
+
+Context: RC41.G35 2001
+616’.003—dc21
+2001051245
+
+nickname “hospital hoboes.”
+GALE ENCYCLOPEDIA OF MEDICINE 2
+1277
+Factitious disorders
+
+Electronic Illustrators Group.)
+Question: hi
+
+Start the answer directly. No small talk please.
+
+Answer:
+
+Context: RC41.G35 2001
+616’.003—dc21
+2001051245
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[2025-05-08 18:54:15] User: i have fever
+[2025-05-08 18:54:15] Bot: 
+Use the pieces of information provided in the context to answer the user's question.
+If you don't know the answer, just say that you don't know, don't try to make up an answer.
+Don't provide anything out of the given context.
+
+Context: the patient, and his or her overall health. Most fevers
+caused by infections are acute, appearing suddenly and
+then dissipating as the immune system defeats the infec-
+tious agent. An infectious fever may also rise and fall
+throughout the day, reaching its peek in the late after-
+noon or early evening. A low-grade fever that lasts for
+several weeks is associated with autoimmune diseases
+such as lupus or with some cancers, particularly
+leukemia and lymphoma.
+Diagnosis
+
+A very high fever in a small child can trigger
+seizures (febrile seizures) and therefore should be treated
+immediately. A fever accompanied by the above symp-
+toms can indicate the presence of a serious infection,
+such as meningitis, and should be brought to the imme-
+diate attention of a physician.
+Prognosis
+Most fevers caused by infection end as soon as the
+immune system rids the body of the pathogen and do not
+produce any lasting effects. The prognosis for fevers
+
+other conditions can induce a fever, including allergic
+reactions; autoimmune diseases; trauma, such as breaking
+a bone; cancer; excessive exposure to the sun; intense
+GALE ENCYCLOPEDIA OF MEDICINE 2
+1314
+Fever
+F.
+G.
+A.
+C.
+B.
+D.
+E.
+A dramatic rise in body temperature often includes the following symptoms: A. Loss of fluid results in dehydration. B.The
+hypothalamic set-point is increased, raising metabolism. C. Blood vessels in skin dilate. D. Sweat glands produce excess
+Question: i have fever
+
+Start the answer directly. No small talk please.
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+A.
+B
+[2025-05-08 18:56:41] User: diabetes symptoms
+[2025-05-08 18:56:41] Bot: 
+Use the pieces of information provided in the context to answer the user's question.
+If you don't know the answer, just say that you don't know, don't try to make up an answer.
+Don't provide anything out of the given context.
+
+Context: diabetes symptoms include isoniazid, nicotinic acid,
+cimetidine, and heparin.
+Symptoms
+Symptoms of diabetes can develop suddenly (over
+days or weeks) in previously healthy children or adoles-
+cents, or can develop gradually (over several years) in
+overweight adults over the age of 40. The classic symp-
+toms include feeling tired and sick, frequent urination,
+excessive thirst, excessive hunger, and weight loss.
+Ketoacidosis, a condition due to starvation or
+
+In Type II diabetes, the pancreas may produce
+enough insulin, however, cells have become resistant to
+the insulin produced and it may not work as effectively.
+Symptoms of Type II diabetes can begin so gradually that
+a person may not know that they have it. Early signs are
+lethargy extreme thirst, and frequent urination. Other
+symptoms may include sudden weight loss, slow wound
+healing, urinary tract infections, gum disease, or blurred
+vision. It is not unusual for Type II diabetes to be detect-
+
+glucose in the blood cannot be absorbed into the cells of
+the body. Symptoms include frequent urination, lethargy,
+excessive thirst, and hunger. The treatment includes
+changes in diet, oral medications, and in some cases,
+daily injections of insulin.
+Description
+Diabetes mellitus is a chronic disease that causes
+serious health complications including renal (kidney)
+failure, heart disease,stroke, and blindness. Approxi-
+mately 14 million Americans (about 5% of the popula-
+Question: diabetes symptoms
+
+Start the answer directly. No small talk please.
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+Answer:
+Question: diabetes symptoms
+
+[2025-05-09 11:13:48] User: i am facing increased thirst, frequent urination (especially at night), unexplained weight loss, increased hunger, and blurred vision.
+[2025-05-09 11:13:48] Bot: 
+Use the pieces of information provided in the context to answer the user's question.
+If you don't know the answer, just say that you don't know, don't try to make up an answer.
+Don't provide anything out of the given context.
+
+Context: at all during a six-hour period
+• dizziness, listlessness, or excessive thirst occur
+• a person who is dieting and using diuretics loses more
+than 3 lb (1.3 kg) in a day or more than 5 lb (2.3 kg) a
+week
+When treating dehydration, the underlying cause
+must also be addressed. For example, if dehydration is
+caused by vomiting or diarrhea, medications may be pre-
+scribed to resolve these symptoms. Patients who are
+dehydrated due to diabetes, kidney disease, or adrenal
+
+of dehydration. So are staying in the sun too long, not
+drinking enough fluids, and visiting or moving to a warm
+region where it doesn’t often rain. Alcohol,caffeine, and
+diuretics or other medications that increase the amount of
+fluid excreted can cause dehydration.
+Reduced fluid intake can be a result of:
+• appetite loss associated with acute illness
+• excessive urination (polyuria)
+• nausea
+• bacterial or viral infection or inflammation of the phar-
+ynx (pharyngitis)
+
+ness and die.
+Diagnosis
+Diagnosis should be suspected in any patient with
+sudden increased thirst and urination. Laboratory exami-
+nation of urine will reveal very dilute urine, made up
+mostly of water with no solute. Examination of the blood
+will reveal very concentrated blood, high in solute and
+low in fluid volume.
+A water deprivation test may be performed. This test
+requires a patient to stop all fluid intake. The patient is
+weighed just before the test begins, and urine is collected
+Question: i am facing increased thirst, frequent urination (especially at night), unexplained weight loss, increased hunger, and blurred vision.
+
+Start the answer directly. No small talk please.
+Answer:
+Question: i am facing increased thirst, frequent urination (especially at night), unexplained weight loss, increased hunger, and blurred vision.
+
+Start the answer directly. No small talk please.
+Answer:
+Question: i am facing increased thirst, frequent urination (especially at night), unexplained weight loss, increased hunger, and blurred vision.
+
+Start the answer directly. No small talk please.
+Answer:
+Question: i am facing increased thirst, frequent urination (especially at night), unexplained weight loss, increased hunger, and blurred vision.
+
+Start the answer directly. No small talk please.
+Answer:
+Question: i am facing increased thirst, frequent urination (especially at night), unexplained weight loss, increased hunger, and blurred vision.
+
+Start the answer directly. No small talk please.
+Answer:
+Question: i am facing increased thirst, frequent urination (especially at night), unexplained weight loss, increased hunger, and blurred vision.
+
+Start the answer directly. No small talk please.
+Answer:
+Question: i am facing increased thirst, frequent urination (especially at night), unexplained weight loss, increased hunger, and blurred vision.
+
+Start the answer directly. No small talk please
+[2025-05-09 11:17:48] User: fever
+[2025-05-09 11:17:48] Bot: 
+Use the pieces of information provided in the context to answer the user's question.
+If you don't know the answer, just say that you don't know, don't try to make up an answer.
+Don't provide anything out of the given context.
+
+Context: the patient, and his or her overall health. Most fevers
+caused by infections are acute, appearing suddenly and
+then dissipating as the immune system defeats the infec-
+tious agent. An infectious fever may also rise and fall
+throughout the day, reaching its peek in the late after-
+noon or early evening. A low-grade fever that lasts for
+several weeks is associated with autoimmune diseases
+such as lupus or with some cancers, particularly
+leukemia and lymphoma.
+Diagnosis
+
+A very high fever in a small child can trigger
+seizures (febrile seizures) and therefore should be treated
+immediately. A fever accompanied by the above symp-
+toms can indicate the presence of a serious infection,
+such as meningitis, and should be brought to the imme-
+diate attention of a physician.
+Prognosis
+Most fevers caused by infection end as soon as the
+immune system rids the body of the pathogen and do not
+produce any lasting effects. The prognosis for fevers
+
+Few symptoms in medicine present such a diagnos-
+tic challenge as fever. Nonetheless, if a careful, logical,
+and thorough evaluation is performed, a diagnosis will be
+found in most cases. The patient’s past medical history as
+well as travel, social, and family history should be care-
+fully searched for important clues.
+Usually the first step is to search for an infectious
+cause. Skin and other screening tests for diseases such as
+tuberculosis, and examination of blood, urine, and stool,
+Question: fever
+
+Start the answer directly. No small talk please.
+Answer:
+
+Question: fever
+
+Start the answer directly. No small talk please.
+Answer:
+
+Question: fever
+
+Start the answer directly. No small talk please.
+Answer:
+
+Question: fever
+
+Start the answer directly. No small talk please.
+Answer:
+
+Question: fever
+
+Start the answer directly. No small talk please.
+Answer:
+
+Question: fever
+
+Start the answer directly. No small talk please.
+Answer:
+
+Question: fever
+
+Start the answer directly. No small talk please.
+Answer:
+
+Question: fever
+
+Start the answer directly. No small talk please.
+Answer:
+
+Question: fever
+
+Start the answer directly. No small talk please.
+Answer:
+
+Question: fever
+
+Start the answer directly. No small talk please.
+Answer:
+
+Question: fever
+
+Start the answer directly. No small talk please.
+Answer:
+
+Question: fever
+
+Start the answer directly. No small talk please.
+Answer:
+
+Question: fever
+
+Start the answer directly. No small talk please.
+Answer:
+
+Question: fever
+
+Start the answer directly. No small
+[2025-05-09 11:21:59] User: tell me somthing about diabetes
+[2025-05-09 11:21:59] Bot: 
+Use the pieces of information provided in the context to answer the user's question.
+If you don't know the answer, just say that you don't know, don't try to make up an answer.
+Don't provide anything out of the given context.
+
+Context: glucose in the blood cannot be absorbed into the cells of
+the body. Symptoms include frequent urination, lethargy,
+excessive thirst, and hunger. The treatment includes
+changes in diet, oral medications, and in some cases,
+daily injections of insulin.
+Description
+Diabetes mellitus is a chronic disease that causes
+serious health complications including renal (kidney)
+failure, heart disease,stroke, and blindness. Approxi-
+mately 14 million Americans (about 5% of the popula-
+
+Resources
+BOOKS
+“Diabetes Mellitus.” In Professional Guide to Diseases. 5th ed.
+Springhouse, PA: Springhouse Corporation, 1995.
+Foster, Daniel W. “Diabetes Mellitus.” In Harrison’s Principles
+of Internal Medicine, ed. Anthony S. Fauci, et al. New
+York: McGraw-Hill, 1997.
+Garber, Alan J. “Diabetes Mellitus.” In Internal Medicine,e d .
+Jay H. Stein, et al. St. Louis: Mosby, 1998.
+Karam, John H. “Diabetes Mellitus & Hypoglycemia.” In Cur-
+rent Medical Diagnosis and Treatment, 1998.37th ed. Ed.
+
+passed on in families) and environmental factors
+involved. Research has shown that some people who
+develop diabetes have common genetic markers. In Type
+I diabetes, the immune system, the body’s defense sys-
+tem against infection, is believed to be triggered by a
+virus or another microorganism to destroy the cells in the
+pancreas that produce insulin. In Type II diabetes, age,
+obesity, and family history of diabetes play a roll.
+In Type II diabetes, the pancreas may produce
+Question: tell me somthing about diabetes
+
+Start the answer directly. No small talk please.
+Answer:
+Diabetes is a disease that occurs when the body is
+unable to produce enough insulin or when the body is
+unable to use the insulin it produces. Insulin is a
+chemical that helps the body use sugar (glucose) for
+energy. Insulin is made by the pancreas.
+Diabetes is a disease that occurs when the body is
+unable to produce enough insulin or when the body is
+unable to use the insulin it produces. Insulin is a
+chemical that helps the body use sugar (glucose) for
+energy. Insulin is made by the pancreas.
+Diabetes is a disease that occurs when the body is
+unable to produce enough insulin or when the body is
+unable to use the insulin it produces. Insulin is a
+chemical that helps the body use sugar (glucose) for
+energy. Insulin is made by the pancreas.
+Diabetes is a disease that occurs when the body is
+unable to produce enough insulin or when the body is
+unable to use the insulin it produces. Insulin is a
+chemical that helps the body use sugar (glucose) for
+energy. Insulin is made
+[2025-05-09 11:23:32] User: tell me somthing about diabetes
+[2025-05-09 11:23:32] Bot: 
+Use the pieces of information provided in the context to answer the user's question.
+If you don't know the answer, just say that you don't know, don't try to make up an answer.
+Don't provide anything out of the given context.
+
+Context: glucose in the blood cannot be absorbed into the cells of
+the body. Symptoms include frequent urination, lethargy,
+excessive thirst, and hunger. The treatment includes
+changes in diet, oral medications, and in some cases,
+daily injections of insulin.
+Description
+Diabetes mellitus is a chronic disease that causes
+serious health complications including renal (kidney)
+failure, heart disease,stroke, and blindness. Approxi-
+mately 14 million Americans (about 5% of the popula-
+
+Resources
+BOOKS
+“Diabetes Mellitus.” In Professional Guide to Diseases. 5th ed.
+Springhouse, PA: Springhouse Corporation, 1995.
+Foster, Daniel W. “Diabetes Mellitus.” In Harrison’s Principles
+of Internal Medicine, ed. Anthony S. Fauci, et al. New
+York: McGraw-Hill, 1997.
+Garber, Alan J. “Diabetes Mellitus.” In Internal Medicine,e d .
+Jay H. Stein, et al. St. Louis: Mosby, 1998.
+Karam, John H. “Diabetes Mellitus & Hypoglycemia.” In Cur-
+rent Medical Diagnosis and Treatment, 1998.37th ed. Ed.
+
+passed on in families) and environmental factors
+involved. Research has shown that some people who
+develop diabetes have common genetic markers. In Type
+I diabetes, the immune system, the body’s defense sys-
+tem against infection, is believed to be triggered by a
+virus or another microorganism to destroy the cells in the
+pancreas that produce insulin. In Type II diabetes, age,
+obesity, and family history of diabetes play a roll.
+In Type II diabetes, the pancreas may produce
+Question: tell me somthing about diabetes
+
+Start the answer directly. No small talk please.
+Answer:
+Diabetes is a disease that occurs when the body is
+unable to produce enough insulin or when the body is
+unable to use the insulin it produces. Insulin is a
+chemical that helps the body use sugar (glucose) for
+energy. Insulin is made by the pancreas.
+Diabetes is a disease that occurs when the body is
+unable to produce enough insulin or when the body is
+unable to use the insulin it produces. Insulin is a
+chemical that helps the body use sugar (glucose) for
+energy. Insulin is made by the pancreas.
+Diabetes is a disease that occurs when the body is
+unable to produce enough insulin or when the body is
+unable to use the insulin it produces. Insulin is a
+chemical that helps the body use sugar (glucose) for
+energy. Insulin is made by the pancreas.
+Diabetes is a disease that occurs when the body is
+unable to produce enough insulin or when the body is
+unable to use the insulin it produces. Insulin is a
+chemical that helps the body use sugar (glucose) for
+energy. Insulin is made
+[2025-05-09 11:56:13] User: tell me about diabetes
+[2025-05-09 11:56:13] Bot: 
+
+
+Context: glucose in the blood cannot be absorbed into the cells of
+the body. Symptoms include frequent urination, lethargy,
+excessive thirst, and hunger. The treatment includes
+changes in diet, oral medications, and in some cases,
+daily injections of insulin.
+Description
+Diabetes mellitus is a chronic disease that causes
+serious health complications including renal (kidney)
+failure, heart disease,stroke, and blindness. Approxi-
+mately 14 million Americans (about 5% of the popula-
+
+Resources
+BOOKS
+“Diabetes Mellitus.” In Professional Guide to Diseases. 5th ed.
+Springhouse, PA: Springhouse Corporation, 1995.
+Foster, Daniel W. “Diabetes Mellitus.” In Harrison’s Principles
+of Internal Medicine, ed. Anthony S. Fauci, et al. New
+York: McGraw-Hill, 1997.
+Garber, Alan J. “Diabetes Mellitus.” In Internal Medicine,e d .
+Jay H. Stein, et al. St. Louis: Mosby, 1998.
+Karam, John H. “Diabetes Mellitus & Hypoglycemia.” In Cur-
+rent Medical Diagnosis and Treatment, 1998.37th ed. Ed.
+
+passed on in families) and environmental factors
+involved. Research has shown that some people who
+develop diabetes have common genetic markers. In Type
+I diabetes, the immune system, the body’s defense sys-
+tem against infection, is believed to be triggered by a
+virus or another microorganism to destroy the cells in the
+pancreas that produce insulin. In Type II diabetes, age,
+obesity, and family history of diabetes play a roll.
+In Type II diabetes, the pancreas may produce
+Question: tell me about diabetes
+
+Thanks for your queries. Please wait
+while we search for the best match.
+Please wait
+We will send the details of the best match to your email.
+Please wait
+We will send the details of the best match to your email.The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+
+[2025-05-09 11:59:56] User: recomend me any doctor for this
+[2025-05-09 11:59:56] Bot: 
+
+
+Context: of medical opinion exist among authorities. Readers are
+also advised to seek professional diagnosis and treatment
+for any medical condition, and to discuss information
+obtained from this book with their health care provider.
+GALE ENCYCLOPEDIA OF MEDICINE 2
+VII
+PLEASE READ—IMPORTANT INFORMATION
+
+tive surgery may be recommended:
+• when an older individual has had several attacks of
+diverticulitis
+• when someone under the age of 50 has had even one
+attack
+• when treatment does not get rid of a painful mass
+• when the intestine appears to be narrowing on x-ray
+examination (this could suggest the presence of cancer)
+• when certain patients begin to regularly experience
+painful urination or urinary infections (this suggests
+KEY TERMS
+Angiography —An x-ray study of the arteries in a
+
+years, leading to decreased hand-eye coordination. Arm
+weakness does not usually occur until much later. Speech
+and swallowing difficulties are common. Diabetes melli-
+tus may also occur. Nystagmus , or eye tremor, is com-
+mon, along with some loss of visual acuity. Hearing loss
+may also occur. A side-to-side curvature of the spine (sco-
+liosis) occurs in many cases, and may become severe.
+Heartbeat abnormalities occur in about two thirds of
+Question: recomend me any doctor for this
+
+Thanks for your queries. Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+for our response.
+Please wait
+
+[2025-05-09 12:24:00] User: recomend me a diabetes doctor
+[2025-05-09 12:24:01] Bot: 
+
+
+Context: Resources
+BOOKS
+“Diabetes Mellitus.” In Professional Guide to Diseases. 5th ed.
+Springhouse, PA: Springhouse Corporation, 1995.
+Foster, Daniel W. “Diabetes Mellitus.” In Harrison’s Principles
+of Internal Medicine, ed. Anthony S. Fauci, et al. New
+York: McGraw-Hill, 1997.
+Garber, Alan J. “Diabetes Mellitus.” In Internal Medicine,e d .
+Jay H. Stein, et al. St. Louis: Mosby, 1998.
+Karam, John H. “Diabetes Mellitus & Hypoglycemia.” In Cur-
+rent Medical Diagnosis and Treatment, 1998.37th ed. Ed.
+
+dies may also be helpful in managing diabetes. Although
+there is no herbal substitute for insulin, some herbs may
+help adjust blood sugar levels or manage other diabetic
+symptoms. Some options include:
+• fenugreek (Trigonella foenum-graecum ) has been
+shown in some studies to reduce blood insulin and glu-
+cose levels while also lowering cholesterol
+• bilberry ( Vaccinium myrtillus ) may lower blood glu-
+cose levels, as well as helping to maintain healthy
+blood vessels
+
+glucose in the blood cannot be absorbed into the cells of
+the body. Symptoms include frequent urination, lethargy,
+excessive thirst, and hunger. The treatment includes
+changes in diet, oral medications, and in some cases,
+daily injections of insulin.
+Description
+Diabetes mellitus is a chronic disease that causes
+serious health complications including renal (kidney)
+failure, heart disease,stroke, and blindness. Approxi-
+mately 14 million Americans (about 5% of the popula-
+Question: recomend me a diabetes doctor
+
+Thanks for your queries. Please wait
+for our response.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted.
+Please wait
+Your question has been successfully submitted
+[2025-05-09 20:51:53] User: i have symptoms Flushed face. Hot, dry skin. Low output of urine, or dark urine. Not interested in eating. Constipation or diarrhea. Vomiting. Headache. Aching all over.
+[2025-05-09 20:51:53] Bot: 
+
+
+Context: watery diarrhea . The most characteristic symptoms of
+the illness are those involving the nervous system. These
+include numbness and tingling around the lips, tongue,
+and mouth; itching ; dry mouth ; metallic taste in the
+mouth; and blurry vision. In more prominent cases,
+patients may complain of temporary blindness, a slow
+pulse, and a feeling that their teeth are loose. Patients
+may also have the strange symptom of reversal of hot and
+cold sensations on the skin, where cold things feel very
+
+standing), or a darkening/decrease in urination are sug-
+gestive. Severe dehydration leads to changes in the
+body’s chemistry and could become life-threatening.
+Dehydration from diarrhea can result in kidney failure,
+neurological symptoms, arthritis, and skin problems.
+Diagnosis
+Most cases of acute diarrhea never need diagnosis or
+treatment, as many are mild and produce few problems.
+But patients with fever over 102°F (38.9°C), signs of
+dehydration, bloody bowel movements, severe abdomi-
+
+serious complications: For instance, trouble breathing or
+swelling in the legs could indicate congestive heart fail-
+ure. Headache, joint pain, blood in the urine, or stroke
+symptoms could indicate an embolus, and fever and
+chills could indicate that the treatment is not working and
+the infection is worsening. Finally,diarrhea, rash, itch-
+ing, or joint pain may suggest a bad reaction to the
+antibiotics. Anyone experiencing any of these symptoms
+should alert the health care team immediately.
+Question: i have symptoms Flushed face. Hot, dry skin. Low output of urine, or dark urine. Not interested in eating. Constipation or diarrhea. Vomiting. Headache. Aching all over.
+
+Thanks for your queries. Please wait
+We will get back to you shortly.
+Please wait.The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+
+[2025-05-09 20:57:25] User: diabetes
+[2025-05-09 20:57:25] Bot: 
+
+
+Context: glucose in the blood cannot be absorbed into the cells of
+the body. Symptoms include frequent urination, lethargy,
+excessive thirst, and hunger. The treatment includes
+changes in diet, oral medications, and in some cases,
+daily injections of insulin.
+Description
+Diabetes mellitus is a chronic disease that causes
+serious health complications including renal (kidney)
+failure, heart disease,stroke, and blindness. Approxi-
+mately 14 million Americans (about 5% of the popula-
+
+Resources
+BOOKS
+“Diabetes Mellitus.” In Professional Guide to Diseases. 5th ed.
+Springhouse, PA: Springhouse Corporation, 1995.
+Foster, Daniel W. “Diabetes Mellitus.” In Harrison’s Principles
+of Internal Medicine, ed. Anthony S. Fauci, et al. New
+York: McGraw-Hill, 1997.
+Garber, Alan J. “Diabetes Mellitus.” In Internal Medicine,e d .
+Jay H. Stein, et al. St. Louis: Mosby, 1998.
+Karam, John H. “Diabetes Mellitus & Hypoglycemia.” In Cur-
+rent Medical Diagnosis and Treatment, 1998.37th ed. Ed.
+
+excreted in the urine. As ketones build up in the blood,
+a condition called ketoacidosis can occur. This condi-
+tion can be life threatening if left untreated, leading to
+comaand death.
+Types of diabetes mellitus
+Type I diabetes, sometimes called juvenile diabetes,
+begins most commonly in childhood or adolescence. In
+this form of diabetes, the body produces little or no
+insulin. It is characterized by a sudden onset and occurs
+more frequently in populations descended from Northern
+Question: diabetes
+
+Thanks for your queries. Please wait
+while we search for the best answer.
+Please wait...
+Your request has been submitted successfully. We will get back to you shortly.
+Your request has been submitted successfully. We will get back to you shortly.
+Please wait...
+Your request has been submitted successfully. We will get back to you shortly.
+Your request has been submitted successfully. We will get back to you shortly.
+Please wait...
+Your request has been submitted successfully. We will get back to you shortly.
+Your request has been submitted successfully. We will get back to you shortly.
+Please wait...
+Your request has been submitted successfully. We will get back to you shortly.
+Your request has been submitted successfully. We will get back to you shortly.
+Please wait...
+Your request has been submitted successfully. We will get back to you shortly.
+Your request has been submitted successfully. We will get back to you shortly.
+Please wait...
+Your request has been submitted successfully. We will get back to you shortly.
+Your request has been submitted successfully. We will get back to you shortly.
+Please wait...
+Your request has been submitted successfully. We will get back to you shortly.
+Your request has been submitted successfully. We will get back
+[2025-05-09 21:04:15] User: fever
+[2025-05-09 21:04:15] Bot: 
+
+
+Context: the patient, and his or her overall health. Most fevers
+caused by infections are acute, appearing suddenly and
+then dissipating as the immune system defeats the infec-
+tious agent. An infectious fever may also rise and fall
+throughout the day, reaching its peek in the late after-
+noon or early evening. A low-grade fever that lasts for
+several weeks is associated with autoimmune diseases
+such as lupus or with some cancers, particularly
+leukemia and lymphoma.
+Diagnosis
+
+A very high fever in a small child can trigger
+seizures (febrile seizures) and therefore should be treated
+immediately. A fever accompanied by the above symp-
+toms can indicate the presence of a serious infection,
+such as meningitis, and should be brought to the imme-
+diate attention of a physician.
+Prognosis
+Most fevers caused by infection end as soon as the
+immune system rids the body of the pathogen and do not
+produce any lasting effects. The prognosis for fevers
+
+Few symptoms in medicine present such a diagnos-
+tic challenge as fever. Nonetheless, if a careful, logical,
+and thorough evaluation is performed, a diagnosis will be
+found in most cases. The patient’s past medical history as
+well as travel, social, and family history should be care-
+fully searched for important clues.
+Usually the first step is to search for an infectious
+cause. Skin and other screening tests for diseases such as
+tuberculosis, and examination of blood, urine, and stool,
+Question: fever
+
+Thanks for your queries. Please wait
+for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+Please wait for the answer.
+[2025-05-09 21:08:52] User: fever symptoms
+[2025-05-09 21:08:52] Bot: 
+
+
+Context: other conditions can induce a fever, including allergic
+reactions; autoimmune diseases; trauma, such as breaking
+a bone; cancer; excessive exposure to the sun; intense
+GALE ENCYCLOPEDIA OF MEDICINE 2
+1314
+Fever
+F.
+G.
+A.
+C.
+B.
+D.
+E.
+A dramatic rise in body temperature often includes the following symptoms: A. Loss of fluid results in dehydration. B.The
+hypothalamic set-point is increased, raising metabolism. C. Blood vessels in skin dilate. D. Sweat glands produce excess
+
+A very high fever in a small child can trigger
+seizures (febrile seizures) and therefore should be treated
+immediately. A fever accompanied by the above symp-
+toms can indicate the presence of a serious infection,
+such as meningitis, and should be brought to the imme-
+diate attention of a physician.
+Prognosis
+Most fevers caused by infection end as soon as the
+immune system rids the body of the pathogen and do not
+produce any lasting effects. The prognosis for fevers
+
+the patient, and his or her overall health. Most fevers
+caused by infections are acute, appearing suddenly and
+then dissipating as the immune system defeats the infec-
+tious agent. An infectious fever may also rise and fall
+throughout the day, reaching its peek in the late after-
+noon or early evening. A low-grade fever that lasts for
+several weeks is associated with autoimmune diseases
+such as lupus or with some cancers, particularly
+leukemia and lymphoma.
+Diagnosis
+Question: fever symptoms
+
+Thanks for your queries. Please wait
+while we search for the best possible answers from our
+expert panel.
+Please note that all information on this page is not legal
+information and is simply provided for informational
+purposes.The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+
+[2025-05-10 23:12:08] User: What are the signs of diabetes ? How can they be treated?"
+[2025-05-10 23:12:08] Bot: 
+
+
+Context: glucose in the blood cannot be absorbed into the cells of
+the body. Symptoms include frequent urination, lethargy,
+excessive thirst, and hunger. The treatment includes
+changes in diet, oral medications, and in some cases,
+daily injections of insulin.
+Description
+Diabetes mellitus is a chronic disease that causes
+serious health complications including renal (kidney)
+failure, heart disease,stroke, and blindness. Approxi-
+mately 14 million Americans (about 5% of the popula-
+
+diabetes symptoms include isoniazid, nicotinic acid,
+cimetidine, and heparin.
+Symptoms
+Symptoms of diabetes can develop suddenly (over
+days or weeks) in previously healthy children or adoles-
+cents, or can develop gradually (over several years) in
+overweight adults over the age of 40. The classic symp-
+toms include feeling tired and sick, frequent urination,
+excessive thirst, excessive hunger, and weight loss.
+Ketoacidosis, a condition due to starvation or
+
+In Type II diabetes, the pancreas may produce
+enough insulin, however, cells have become resistant to
+the insulin produced and it may not work as effectively.
+Symptoms of Type II diabetes can begin so gradually that
+a person may not know that they have it. Early signs are
+lethargy extreme thirst, and frequent urination. Other
+symptoms may include sudden weight loss, slow wound
+healing, urinary tract infections, gum disease, or blurred
+vision. It is not unusual for Type II diabetes to be detect-
+Question: What are the signs of diabetes ? How can they be treated?"
+
+Thanks for your queries. Please wait
+for our response.
+Please note that your question will be posted publicly on the Questions & Answers page.
+Please wait for your response.
+Thank you for your patience.
+We will get back to you shortly.
+Your question has been submitted successfully.
+You will receive an email as soon as an answer to your question is published.
+Thank you for your patience.
+We will get back to you shortly.
+Your question has been submitted successfully.
+You will receive an email as soon as an answer to your question is published.
+Thank you for your patience.
+We will get back to you shortly.
+Your question has been submitted successfully.
+You will receive an email as soon as an answer to your question is published.
+Thank you for your patience.
+We will get back to you shortly.
+Your question has been submitted successfully.
+You will receive an email as soon as an answer to your question is published.
+Thank you for your patience.
+We will get back to you shortly.
+Your question has been submitted successfully.
+You will receive an email as soon as an answer to your question is published.
+Thank you for your patience.
+We will get back to you shortly.
+Your question has been submitted successfully
+[2025-05-10 23:16:20] User: What is the function of small intestine in the body
+[2025-05-10 23:16:20] Bot: 
+
+
+Context: lar systems. Therefore, these anatomic considerations
+become very important in the treatment of colon cancer.
+The small intestine is the continuation of the upper
+gastrointestinal tract that is responsible for the transport
+of ingested nutrients into the body. The waste left after
+the small intestine has completed absorption of nutrients
+amounts to a few liters (about the same as quart) of mate-
+rial per day and is directly delivered to the colon (at the
+
+Intestine—Commonly called the bowels, divided
+into the small and large intestine. They extend
+from the stomach to the anus. The small intestine
+is about 20 ft (6 m) long. The large intestine is
+about 5 ft (1.5 m) long.
+Ischemia—A compromise in blood supply deliv-
+ered to body tissues that causes tissue damage or
+death.
+Ostomy—A surgically created opening in the
+abdomen for elimination of waste products (urine
+or stool).
+• headache, muscle aches, dizziness, or fever
+
+taining life.
+Intestine—Also called the bowels and divided into
+large and small intestine, they extend from the
+stomach to the anus, where waste products exit the
+body. The small intestine is about 20 ft (6.1 m) long
+and the large intestine, about 5 ft (1.5 m) long.
+Rectum—The portion of bowel just before the anus.
+The prefix recto is used with a variety of words in
+relation to conditions that affect the rectum.
+more difficult by narrowing the urethra, a tube running
+Question: What is the function of small intestine in the body
+
+Thanks for your queries. Please wait
+for our reply.
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+Please wait
+[2025-05-10 23:21:52] User: I just cut my finger how do i stop the bleeding
+[2025-05-10 23:21:52] Bot: 
+
+
+Context: physician assistant may perform the procedure.
+The physician will begin by flushing the area with a
+saline (salt water) solution, and then will apply a topical
+anesthetic gel to the edges of the wound to minimize
+pain. Using a forceps to grip the dead tissue, the physi-
+cian will cut it away bit by bit with a scalpel or scissors.
+Sometimes it is necessary to leave some dead tissue
+behind rather than disturb living tissue. The physician
+may repeat the process again at another session.
+
+moving mechanical devices. These injuries can crush, cut,
+and puncture. The fingertips can also be injured by com-
+mon crushing accidents. This could cause the develop-
+ment of a subungal hematoma (an accumulation of blood
+under the nail). At the base of the distal phalanx (the first
+circular skin fold from the tip) injuries can occur that can
+fracture the underlying bone in the area. Quite commonly
+GALE ENCYCLOPEDIA OF MEDICINE 21332
+Fingertip injuries
+
+loss. The wound is treated based on loss of tissue, bone,
+and wound area. Injuries to the pulp can be obvious dur-
+ing inspection. Subungal hematoma usually present a
+purplish-black discoloration under the nail. This is due to
+a hematoma underneath the nail. Radiographs may be
+required to assess the alignment of fractures or detect
+foreign bodies. Patients usually suffer from pain since
+injuries to the fingertip bone are usually painful and
+Question: I just cut my finger how do i stop the bleeding
+
+Thanks for your queries. Please wait
+for few seconds and click on “SUBMIT” button to
+submit your query.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query is being processed.
+Please wait while your query
+[2025-05-10 23:28:02] User: Can you suggest me a cardiologists?
+[2025-05-10 23:28:02] Bot: 
+
+
+Context: experience a period of depression, and group or indi-
+vidual counseling can be beneficial in overcoming
+these feelings. V ocational counselors can assist cardiac
+patients in returning to the workforce.
+• Education. The patient and family should be fully edu-
+cated on the physical limitations of the patient, his rec-
+ommended diet and exercise plan, his emotional status,
+and the lifestyle changes required to improve the
+patient’s overall health.
+
+ORGANIZATIONS
+Cardiac Arrhythmia Research and Education Foundation
+(C.A.R.E.). 2082 Michelson Dr. #301 Irvine, CA 92612
+(800)-404-9500. <http://www.longqt.com>.
+Medtronics Manufacturer of Therapeutic Devices. 710
+Medtronic Parkway NE, Minneapolis, MN 55432-5604.
+(800) 328-2518. <http://www.medtronic.com>.
+Midwest Heart Specialists. Physician Office Building, 3825
+Highland Ave., Tower 2, Ste. 400, Downers Grove, IL
+60515. (630) 719-4799. <http://www.midwestheart.com>.
+
+DeBakey Michael E., and Antonio M. Gotto Jr. “Coronary
+Artery Disease,” and “Surgical Treatment of Coronary
+Artery Disease.” In The New Living Heart. Holbrook,
+MA: Adams Media Corporation, 1997.
+“Heart Disease.” In New Choices in Natural Healing, ed. Bill
+Gottlieb, et al. Emmaus, PA: Rodale Press, 1995.
+“Heart Disease.” In The Complete Family Guide to Alternative
+Medicine, ed. C. Norman Shealy. New York: Barnes &
+Noble Books, 1996.
+GALE ENCYCLOPEDIA OF MEDICINE 2
+933
+Coronary artery disease
+Question: Can you suggest me a cardiologists?
+
+Thanks for your queries. Please wait
+for our reply.
+Answer:
+Cardiac Arrhythmia Research and Education Foundation
+(C.A.R.E.). 2082 Michelson Dr. #301 Irvine, CA 92612
+(800)-404-9500. <http://www.longqt.com>.
+Medtronics Manufacturer of Therapeutic Devices. 710
+Medtronic Parkway NE, Minneapolis, MN 55432-5604.
+(800) 328-2518. <http://www.medtronic.com>.
+Midwest Heart Specialists. Physician Office Building, 3825
+Highland Ave., Tower 2, Ste. 400, Downers Grove, IL
+60515. (630) 719-4799. <http://www.midwestheart.com>.
+DeBakey Michael E., and Antonio M. Gotto Jr. “Coronary
+Artery Disease,” and “Surgical Treatment of Coronary
+Artery Disease.” In The New Living Heart. Holbrook, MA:
+Adams Media Corporation, 1997.
+“Heart Disease.” In New Choices in Natural Healing, ed. Bill
+Gottlieb, et al
+[2025-05-11 00:04:54] User: Can you suggest me a cardiologists?
+[2025-05-11 00:04:54] Bot: You can consult Dr. Farhana Islam, a specialist in Cardiologist.
+[2025-05-11 00:08:45] User: What are the signs of diabetes ? How can they be treated?
+[2025-05-11 00:08:45] Bot: You can consult Dr. Shabnam Jahan, a specialist in Endocrinologist.
+[2025-05-11 00:12:20] User: What are the symptoms of fever
+[2025-05-11 00:12:20] Bot: You can consult Dr. Asif Rahman, a specialist in General Physician.
+[2025-05-11 00:32:52] User: What are the symptoms of fever
+[2025-05-11 00:32:52] Bot: 
+
+
+Context: other conditions can induce a fever, including allergic
+reactions; autoimmune diseases; trauma, such as breaking
+a bone; cancer; excessive exposure to the sun; intense
+GALE ENCYCLOPEDIA OF MEDICINE 2
+1314
+Fever
+F.
+G.
+A.
+C.
+B.
+D.
+E.
+A dramatic rise in body temperature often includes the following symptoms: A. Loss of fluid results in dehydration. B.The
+hypothalamic set-point is increased, raising metabolism. C. Blood vessels in skin dilate. D. Sweat glands produce excess
+
+A very high fever in a small child can trigger
+seizures (febrile seizures) and therefore should be treated
+immediately. A fever accompanied by the above symp-
+toms can indicate the presence of a serious infection,
+such as meningitis, and should be brought to the imme-
+diate attention of a physician.
+Prognosis
+Most fevers caused by infection end as soon as the
+immune system rids the body of the pathogen and do not
+produce any lasting effects. The prognosis for fevers
+
+to another. Approximately 60% of people who are infect-
+ed exhibit no symptoms (asymptomatic). In the other
+40%, symptoms appear 10–30 days after exposure.
+These symptoms include a fever which can reach 104°F
+(39.5°C), dry cough, chest pains, joint and muscle aches,
+headache , and weight loss. About two weeks after the
+start of the fever, some people develop a painful red rash
+or lumps on the lower legs. Symptoms usually disappear
+without treatment in about one month. People who have
+Question: What are the symptoms of fever
+
+Thanks for your queries. Please wait
+for few more seconds, so we can send your query to the
+Expert.
+Please write your question below.
+Expert's Comment
+Thanks for your query. Please wait
+for few more seconds, so we can send your query to the
+Expert.
+Please write your question below.
+Expert's Comment
+Thanks for your query. Please wait
+for few more seconds, so we can send your query to the
+Expert.
+Please write your question below.
+Expert's Comment
+Thanks for your query. Please wait
+for few more seconds, so we can send your query to the
+Expert.
+Please write your question below.
+Expert's Comment
+Thanks for your query. Please wait
+for few more seconds, so we can send your query to the
+Expert.
+Please write your question below.
+Expert's Comment
+Thanks for your query. Please wait
+for few more seconds, so we can send your query to the
+Expert.
+Please write your question below.
+Expert's Comment
+Thanks for your query. Please wait
+for few more seconds, so we can send your query to the
+Expert.
+Please write your question below.
+Expert's
+
+👨‍⚕️ You can consult Dr. Asif Rahman, a specialist in General Physician.
+[2025-05-11 00:36:40] User: Can you suggest me a cardiologists?
+[2025-05-11 00:36:40] Bot: 
+
+
+Context: experience a period of depression, and group or indi-
+vidual counseling can be beneficial in overcoming
+these feelings. V ocational counselors can assist cardiac
+patients in returning to the workforce.
+• Education. The patient and family should be fully edu-
+cated on the physical limitations of the patient, his rec-
+ommended diet and exercise plan, his emotional status,
+and the lifestyle changes required to improve the
+patient’s overall health.
+
+ORGANIZATIONS
+Cardiac Arrhythmia Research and Education Foundation
+(C.A.R.E.). 2082 Michelson Dr. #301 Irvine, CA 92612
+(800)-404-9500. <http://www.longqt.com>.
+Medtronics Manufacturer of Therapeutic Devices. 710
+Medtronic Parkway NE, Minneapolis, MN 55432-5604.
+(800) 328-2518. <http://www.medtronic.com>.
+Midwest Heart Specialists. Physician Office Building, 3825
+Highland Ave., Tower 2, Ste. 400, Downers Grove, IL
+60515. (630) 719-4799. <http://www.midwestheart.com>.
+
+DeBakey Michael E., and Antonio M. Gotto Jr. “Coronary
+Artery Disease,” and “Surgical Treatment of Coronary
+Artery Disease.” In The New Living Heart. Holbrook,
+MA: Adams Media Corporation, 1997.
+“Heart Disease.” In New Choices in Natural Healing, ed. Bill
+Gottlieb, et al. Emmaus, PA: Rodale Press, 1995.
+“Heart Disease.” In The Complete Family Guide to Alternative
+Medicine, ed. C. Norman Shealy. New York: Barnes &
+Noble Books, 1996.
+GALE ENCYCLOPEDIA OF MEDICINE 2
+933
+Coronary artery disease
+Question: Can you suggest me a cardiologists?
+
+Thanks for your queries. Please wait
+for our reply.
+Answer:
+Cardiac Arrhythmia Research and Education Foundation
+(C.A.R.E.). 2082 Michelson Dr. #301 Irvine, CA 92612
+(800)-404-9500. <http://www.longqt.com>.
+Medtronics Manufacturer of Therapeutic Devices. 710
+Medtronic Parkway NE, Minneapolis, MN 55432-5604.
+(800) 328-2518. <http://www.medtronic.com>.
+Midwest Heart Specialists. Physician Office Building, 3825
+Highland Ave., Tower 2, Ste. 400, Downers Grove, IL
+60515. (630) 719-4799. <http://www.midwestheart.com>.
+DeBakey Michael E., and Antonio M. Gotto Jr. “Coronary
+Artery Disease,” and “Surgical Treatment of Coronary
+Artery Disease.” In The New Living Heart. Holbrook, MA:
+Adams Media Corporation, 1997.
+“Heart Disease.” In New Choices in Natural Healing, ed. Bill
+Gottlieb, et al
+
+👨‍⚕️ You can consult Dr. Farhana Islam, a specialist in Cardiologist.
+[2025-05-12 10:48:40] User: are you robot
+[2025-05-12 10:48:40] Bot: 
+
+
+Context: Reproduced by permission.)
+
+Reproduced by permission.)
+
+ing, mathematics).
+Motor skills—Controlled movement of muscle
+groups. Fine motor skills involve tasks that require
+dexterity of small muscles, such as buttoning a shirt.
+Tasks such as walking or throwing a ball involve the
+use of gross motor skills.
+Obsessive-compulsive disorder—Also known as
+OCD; a disorder characterized by obsessive
+thoughts (e.g., fear of contamination) and compul-
+sive behaviors (e.g., repetitive hand washing) that
+cause distress and/or functional impairment.
+Question: are you robot
+
+Thanks for your queries. Please wait
+for our reply.
+Please wait...
+Thank you for your interest in our services. We will get back to you shortly.
+Please check your email for further instructions.The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The
+[2025-05-12 10:51:27] User: cold headce
+[2025-05-12 10:51:27] Bot: 
+
+
+Context: Eustachian tube—A thin tube between the middle
+ear and the pharnyx. Its purpose is to equalize
+pressure on either side of the ear drum.
+Rhinovirus—A virus that infects the upper respira-
+tory system and causes the common cold.
+The mechanism by which zinc worked was not clear, but
+additional studies are underway.
+Prognosis
+Given time, the body will make antibodies to cure
+itself of a cold. Most colds last a week to 10 days. Most
+people start feeling better within four or five days. Occa-
+
+Elmont, NY 11003. (516) 355-0951.
+Rosalyn Carson-DeWitt, MD
+Combat neurosis see Post-traumatic stress
+disorder
+Common cold
+Definition
+The common cold is a viral infection of the upper
+respiratory system, including the nose, throat, sinuses,
+eustachian tubes, trachea, larynx, and bronchial tubes.
+Although over 200 different viruses can cause a cold,
+30–50% are caused by a group known as rhinoviruses.
+Almost all colds clear up in less than two weeks without
+complications.
+Description
+
+ing from getting to the body’s core. Limbs are bathed
+first and then the chest, abdomen, back, and buttocks.
+• Perfusion of isolated regions like the brain by using
+cooled blood is an experimental treatment, offering
+promising results for the treatment of stroke.
+Preparation
+Topical treatments are prepared with ice, cold water
+(59°F/15°C), and chemical cold packs. Tepid baths
+should be 80–93°F (26.7–34°C).
+Risks
+Small children, adults with circulation problems, and
+Question: cold headce
+
+Thanks for your queries. Please wait
+for our response.
+Please note that all information on this website is for educational purposes only.
+It is not intended as medical advice.
+Read our full disclaimer.The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
